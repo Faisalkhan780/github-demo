@@ -1,3 +1,5 @@
 This is level 1 file.
 I changed it from gitbash.
 Changes done in mybranch.
+
+Used git checkout-b myfeature origin/develop
